@@ -31,20 +31,20 @@ Technologies Used
 ________________________________________
 How to Play
 1.	Start the Game: 
-o	Press any key to begin.
+	Press any key to begin.
 2.	Watch the Sequence: 
-o	The game will highlight a sequence of colors, one at a time. Pay attention to the order.
+	The game will highlight a sequence of colors, one at a time. Pay attention to the order.
 3.	Repeat the Sequence: 
-o	Click the buttons in the same order as the highlighted sequence.
+	Click the buttons in the same order as the highlighted sequence.
 4.	Progress to the Next Level: 
-o	If your sequence matches the game’s sequence, you’ll move to the next level with a longer sequence.
+	If your sequence matches the game’s sequence, you’ll move to the next level with a longer sequence.
 5.	Game Over: 
-o	If you click the wrong button, the game ends. Press any key to restart.
+	If you click the wrong button, the game ends. Press any key to restart.
 ________________________________________
 Code Structure
 •	HTML: 
-o	Contains the structure of the game (buttons, headings).
+	Contains the structure of the game (buttons, headings).
 •	CSS: 
-o	Includes styles and animations for game effects.
+	Includes styles and animations for game effects.
 •	JavaScript: 
-o	Handles game logic, event handling, animations, and sounds.
+	Handles game logic, event handling, animations, and sounds.
