@@ -14,7 +14,7 @@ The Simon Game is a classic memory game where players must mimic an increasingly
 ________________________________________
 Demo
 Check out the live demo here: Simon Game Live Demo
-(Add your live demo link if hosted, e.g., GitHub Pages, Netlify, etc.)
+https://dache01.github.io/SimonGame/
 ________________________________________
 Features
 •	Interactive UI with clickable colored buttons.
